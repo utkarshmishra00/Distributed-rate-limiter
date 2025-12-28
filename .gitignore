@@ -1,0 +1,18 @@
+# Binaries
+rate-limiter
+main
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Redis
+dump.rdb
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
